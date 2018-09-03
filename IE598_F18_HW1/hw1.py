@@ -107,7 +107,7 @@ print("My NetID is: zzhou64")
 print("I hereby certify that I have read the University policy on Academic Integrity and that I am not in violation.")
 ######STOP HERE######################
 
-# blah blah
+
 #
 #
 # ##error in scikit learn package, which version??
